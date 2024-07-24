@@ -1,0 +1,2 @@
+Train Loss,Val Loss,Training accuracy,Val accuracy,Training top1 error,Val top1 error,Training top5 error,Val top5 error,Learning Rate,Top 5 Classes,Bottom 5 Classes
+0.12347231793703972,2.567838002853554,99.97000599880025,37.833783378337834,0.02999400119976004,62.166216621662166,0.02999400119976004,34.56345634563456,0.00038189850585339675,"['Class 95: 95.24%', 'Class 57: 93.35%', 'Class 92: 90.61%', 'Class 42: 86.53%', 'Class 82: 86.30%']","['Class 13: 50.19%', 'Class 14: 48.70%', 'Class 4: 48.09%', 'Class 17: 47.87%', 'Class 25: 46.85%']"
